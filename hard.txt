@@ -1,1 +1,5 @@
 test funciton
+input data in wed
+12345678
+87654321
+yaya 
